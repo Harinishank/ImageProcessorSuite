@@ -1,5 +1,4 @@
 # Image Processing Algorithms
-
 This project implements several fundamental image processing techniques using various algorithms. The operations included are:
 
 1. **Grayscale Conversion:** Color space transformation.
