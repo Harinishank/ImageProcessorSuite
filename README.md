@@ -1,7 +1,3 @@
-Certainly! Here is a sample README content for a project implementing various image processing algorithms:
-
----
-
 # Image Processing Algorithms
 
 This project implements several fundamental image processing techniques using various algorithms. The operations included are:
@@ -30,7 +26,7 @@ This project implements several fundamental image processing techniques using va
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/image-processing-algorithms.git
+    git clone https://github.com/Harinishank/image-processing-algorithms.git
     cd image-processing-algorithms
     ```
 
